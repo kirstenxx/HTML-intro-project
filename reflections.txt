@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+- New skills: focusing more on creating cleaner & easier to edit code. Prior history with HTML, so a bit of a learning curve trying to make things work up to what I'm assuming is now industry standard.
+- Easy: Using resources if I get stuck on something
+- Difficult: once I've created a problem, figuring out how to undo the problem
+- Problem solving: I've stepped away a few times during this module to stop looking at the same thing and refresh my mind.
